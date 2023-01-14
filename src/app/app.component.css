@@ -27,15 +27,15 @@ h1 {
     font-size: 140%;
 }
 
-body::-webkit-scrollbar {
+*::-webkit-scrollbar {
     width: 5px;               
 }
   
-body::-webkit-scrollbar-track {
+*::-webkit-scrollbar-track {
     background-color: #05230d;  
 }
   
-body::-webkit-scrollbar-thumb {
+*::-webkit-scrollbar-thumb {
     background-color: #19693074;   
 }
 
